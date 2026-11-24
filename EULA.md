@@ -44,7 +44,7 @@ b) Program, Kullanıcının kendi açtığı bağlantılar dışında yalnızca 
 c) Ayarlar ve hata kayıtları yalnızca Kullanıcının bilgisayarında tutulur. Hata kayıtları, Kullanıcı kendisi göndermedikçe hiçbir yere gönderilmez.
 
 **9. Üçüncü taraf bileşenler ve siteler**
-Program, kendi lisanslarına tabi açık kaynak bileşenler içerir (ör. go-webview2, golang.org/x/sys). Bu bileşenlerin listesi ve lisans metinleri Programın "Hakkında" bölümündedir. Bu bileşenler için o lisanslar, bu sözleşmeden önce gelir. Program aracılığıyla erişilen web sitelerinin ve DNS sağlayıcılarının içeriğinden ve işleyişinden Geliştirici sorumlu değildir.
+Program, kendi lisanslarına tabi açık kaynak bileşenler içerir (ör. gVisor, go-webview2, golang.org/x/sys). Bu bileşenlerin listesi ve lisans metinleri Programın "Hakkında" bölümündedir. Bu bileşenler için o lisanslar, bu sözleşmeden önce gelir. Program aracılığıyla erişilen web sitelerinin ve DNS sağlayıcılarının içeriğinden ve işleyişinden Geliştirici sorumlu değildir.
 
 **10. Garanti yoktur**
 Program, ücretsiz olarak ve "olduğu gibi" sunulur. Geliştirici; Programın hatasız, kesintisiz çalışacağına, her siteye veya her internet sağlayıcısında erişim sağlayacağına ya da belirli bir amaca uygun olduğuna dair, açık ya da örtülü hiçbir garanti vermez. Yürürlükteki yasaların izin verdiği en geniş ölçüde tüm garantiler kapsam dışıdır.
@@ -93,7 +93,7 @@ Version 1 — November 2026
 
 **8. Privacy.** (a) The Software does not collect personal data, show ads, send usage statistics or require an account. (b) Apart from the connections you make yourself, the Software only connects to: encrypted DNS providers (Cloudflare 1.1.1.1 and Google 8.8.8.8), to resolve domain names; GitHub, to check for updates; in Automatic mode, discord.com, x.com, reddit.com, instagram.com, telegram.org and wattpad.com, only as connection tests to pick the best method; and, during installation if it is missing, Microsoft, to download the Microsoft Edge WebView2 component. No personal data is sent in these tests. (c) Your settings and error logs are stored only on your computer, and error logs are not sent anywhere unless you send them yourself.
 
-**9. Third-party components and websites.** The Software contains open-source components that are subject to their own licenses (e.g. go-webview2, golang.org/x/sys); their list and license texts are in the Software's "About" section. For those components, their licenses take precedence over this agreement. The Developer is not responsible for the content or operation of websites or DNS providers accessed through the Software.
+**9. Third-party components and websites.** The Software contains open-source components that are subject to their own licenses (e.g. gVisor, go-webview2, golang.org/x/sys); their list and license texts are in the Software's "About" section. For those components, their licenses take precedence over this agreement. The Developer is not responsible for the content or operation of websites or DNS providers accessed through the Software.
 
 **10. No warranty.** The Software is provided free of charge and "as is". The Developer gives no warranty of any kind, express or implied, that the Software will work without errors or interruptions, will provide access to every website or on every internet provider, or will be fit for a particular purpose. To the maximum extent permitted by applicable law, all warranties are excluded.
 
