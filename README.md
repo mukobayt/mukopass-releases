@@ -1,6 +1,6 @@
 # MukoPass
 
-**Serbest internet • by MUKO**
+**Serbest internet • by Dev. MUKO**
 
 Bir siteye girmek istediğinizde "Bu siteye erişim engellenmiştir" sayfasıyla mı karşılaşıyorsunuz? MukoPass, internet sağlayıcısının uyguladığı erişim engellerini **tek bir düğmeyle** aşmanızı sağlayan ücretsiz ve reklamsız bir Windows uygulamasıdır. Açın, büyük düğmeye basın, sitelere her zamanki gibi girin. Bu kadar.
 
@@ -61,13 +61,13 @@ Hangisini seçeceğinizi düşünmenize gerek yok: **Otomatik** mod bunu sizin y
 
 ## Kullanım şartları
 
-MukoPass ücretsizdir; kaynak kodu açık değildir. Kurulum dosyasını değiştirmeden paylaşabilirsiniz. Programın kullanımından doğan sorumluluk kullanıcıya aittir; lütfen bulunduğunuz yerin yasalarına uygun şekilde kullanın.
+Ayrıntılar: [Kullanım Sözleşmesi / License Agreement](EULA.md). MukoPass ücretsizdir; kaynak kodu açık değildir. Kurulum dosyasını değiştirmeden paylaşabilirsiniz. Programın kullanımından doğan sorumluluk kullanıcıya aittir; lütfen bulunduğunuz yerin yasalarına uygun şekilde kullanın.
 
 ---
 
 # MukoPass
 
-**Free internet • by MUKO**
+**Free internet • by Dev. MUKO**
 
 MukoPass is a free, ad-free Windows app that gets you past ISP-level website blocking with a single button.
 
@@ -80,4 +80,4 @@ MukoPass is a free, ad-free Windows app that gets you past ISP-level website blo
 - **Safe updates:** MukoPass tells you when a new version is out and verifies each update with SHA-256 before installing.
 - **No ads, no bundled software, no account required.**
 
-Please use MukoPass in accordance with the laws where you live.
+Please use MukoPass in accordance with the laws where you live. See the [License Agreement](EULA.md).
